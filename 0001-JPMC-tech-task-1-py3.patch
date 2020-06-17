@@ -1,0 +1,20 @@
+From c3bae54e441fbf0cb5b69386d2ea03336079e895 Mon Sep 17 00:00:00 2001
+From: Shadman Ahmed Khan <contactshadman@gmail.com>
+Date: Wed, 17 Jun 2020 14:47:14 +0530
+Subject: [PATCH] JPMC-tech-task-1-py3/
+
+---
+ JPMC-tech-task-1-py3 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 JPMC-tech-task-1-py3
+
+diff --git a/JPMC-tech-task-1-py3 b/JPMC-tech-task-1-py3
+new file mode 160000
+index 0000000..3614329
+--- /dev/null
++++ b/JPMC-tech-task-1-py3
+@@ -0,0 +1 @@
++Subproject commit 36143294b216b7210e2ee5948c78725503a5b7ca
+-- 
+2.27.0.windows.1
+
